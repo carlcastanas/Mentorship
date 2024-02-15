@@ -67,10 +67,12 @@ git clone https://github.com/your-username/your-forked-repo.git
 3. Open the README.md file in your preferred text editor.
 4. Find your group and update the GitHub Profile column with your actual GitHub username.
 
+```bash
 | #   | Name                             | GitHub Profile                 |
 | --- | -------------------------------- | ------------------------------ |
 | 1   | Carl Andrew Castañas            | [carlcastanas](https://github.com/carlcastanas) |
 | ... | ...                              | ...                            |
+```
 
 5. Save the changes.
 6. Commit and push the changes to your forked repository.
@@ -89,8 +91,5 @@ git push origin main
 
 8. Create a pull request from your forked repository to the original repository.
 Your changes will be reviewed, and once approved, they will be merged into the main repository.
-
-Thank you for contributing!
-
 
 9. Replace "your-username" and "your-forked-repo" with your actual GitHub username and the name of your forked repository. This guide helps group members contribute to the README file, ensuring that the information is up-to-date and accurate.
