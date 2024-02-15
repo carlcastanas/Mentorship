@@ -62,6 +62,8 @@ If you're a group member and want to add or edit your GitHub profile information
 ```bash
 git clone https://github.com/your-username/your-forked-repo.git
 
+```
+
 3. Open the README.md file in your preferred text editor.
 4. Find your group and update the GitHub Profile column with your actual GitHub username.
 
@@ -73,9 +75,17 @@ git clone https://github.com/your-username/your-forked-repo.git
 5. Save the changes.
 6. Commit and push the changes to your forked repository.
 
+```bash
 git add README.md
+```
+
+```bash
 git commit -m "Update GitHub profiles for Group X"
+```
+
+```bash
 git push origin main
+```
 
 8. Create a pull request from your forked repository to the original repository.
 Your changes will be reviewed, and once approved, they will be merged into the main repository.
