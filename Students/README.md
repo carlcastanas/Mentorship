@@ -51,3 +51,36 @@
 | 32  | James Matthew Llanos              | [sample-username](https://github.com/sample-username) |
 | 33  | Nikolai Llamas                    | [sample-username](https://github.com/sample-username) |
 | 34  | Bradley Mark Gerarcas             | [sample-username](https://github.com/sample-username) |
+
+# How to Contribute
+
+If you're a group member and want to add or edit your GitHub profile information:
+
+1. Fork this repository.
+2. Clone your forked repository to your local machine.
+
+```bash
+git clone https://github.com/your-username/your-forked-repo.git
+
+3. Open the README.md file in your preferred text editor.
+4. Find your group and update the GitHub Profile column with your actual GitHub username.
+
+| #   | Name                             | GitHub Profile                 |
+| --- | -------------------------------- | ------------------------------ |
+| 1   | Carl Andrew Castañas            | [carlcastanas](https://github.com/carlcastanas) |
+| ... | ...                              | ...                            |
+
+5. Save the changes.
+6. Commit and push the changes to your forked repository.
+
+git add README.md
+git commit -m "Update GitHub profiles for Group X"
+git push origin main
+
+8. Create a pull request from your forked repository to the original repository.
+Your changes will be reviewed, and once approved, they will be merged into the main repository.
+
+Thank you for contributing!
+
+
+9. Replace "your-username" and "your-forked-repo" with your actual GitHub username and the name of your forked repository. This guide helps group members contribute to the README file, ensuring that the information is up-to-date and accurate.
