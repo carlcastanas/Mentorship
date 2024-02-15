@@ -1,6 +1,7 @@
+## Group 1
+
 | #   | Name                             | GitHub Profile                 |
 | --- | -------------------------------- | ------------------------------ |
-| **Group 1**                            |
 | 1   | Roland Jay A. Agasid             | [sample-username](https://github.com/sample-username) |
 | 2   | Christian Jay Vence              | [sample-username](https://github.com/sample-username) |
 | 3   | Gavin Daniel Seonggun Manansala  | [sample-username](https://github.com/sample-username) |
@@ -11,7 +12,10 @@
 | 8   | Vincent Sotoya                     | [sample-username](https://github.com/sample-username) |
 | 9   | Coleen May Sanchez Gatus          | [sample-username](https://github.com/sample-username) |
 
-| **Group 2**                            |
+## Group 2
+
+| #   | Name                             | GitHub Profile                 |
+| --- | -------------------------------- | ------------------------------ |
 | 10  | Ronilo                            | [sample-username](https://github.com/sample-username) |
 | 11  | Jeya Von Pinlac                   | [sample-username](https://github.com/sample-username) |
 | 12  | Jie Burillo                       | [sample-username](https://github.com/sample-username) |
@@ -22,7 +26,10 @@
 | 17  | Ariel Jefferson Yonzon            | [sample-username](https://github.com/sample-username) |
 | 18  | Reynald Toledo                     | [sample-username](https://github.com/sample-username) |
 
-| **Group 3**                            |
+## Group 3
+
+| #   | Name                             | GitHub Profile                 |
+| --- | -------------------------------- | ------------------------------ |
 | 19  | Vince Marq Montilla               | [sample-username](https://github.com/sample-username) |
 | 20  | Lau Rince Mark                     | [sample-username](https://github.com/sample-username) |
 | 21  | Dave Joshua Ariño                 | [sample-username](https://github.com/sample-username) |
@@ -33,7 +40,10 @@
 | 26  | James Marius Santos               | [sample-username](https://github.com/sample-username) |
 | 27  | Danny Alistado Sulit              | [sample-username](https://github.com/sample-username) |
 
-| **Group 4**                            |
+## Group 4
+
+| #   | Name                             | GitHub Profile                 |
+| --- | -------------------------------- | ------------------------------ |
 | 28  | Pinky Grace Adriatico             | [sample-username](https://github.com/sample-username) |
 | 29  | Jayvee Maniquiz                   | [sample-username](https://github.com/sample-username) |
 | 30  | Kazer Ramores Panol               | [sample-username](https://github.com/sample-username) |
