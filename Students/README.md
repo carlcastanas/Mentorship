@@ -14,17 +14,17 @@
 
 ## Group 2
 
-| #   | Name                             | GitHub Profile                 |
-| --- | -------------------------------- | ------------------------------ |
-| 10  | Ronilo                            | [sample-username](https://github.com/sample-username) |
-| 11  | Jeya Von Pinlac                   | [sample-username](https://github.com/sample-username) |
-| 12  | Jie Burillo                       | [sample-username](https://github.com/sample-username) |
-| 13  | Heinrich Sanchez II                | [sample-username](https://github.com/sample-username) |
-| 14  | Rodzel John Te                    | [sample-username](https://github.com/sample-username) |
-| 15  | Mimon Maiquez                     | [sample-username](https://github.com/sample-username) |
-| 16  | Trisha Macion                      | [sample-username](https://github.com/sample-username) |
-| 17  | Ariel Jefferson Yonzon            | [sample-username](https://github.com/sample-username) |
-| 18  | Reynald Toledo                     | [sample-username](https://github.com/sample-username) |
+| #   | Name                             | GitHub Profile                                          |
+| --- | -------------------------------- |---------------------------------------------------------|
+| 10  | Ronilo                            | [Ronilo](https://github.com/sample-username)   |
+| 11  | Jeya Von Pinlac                   | [Jeya Von Pinlac](https://github.com/jeyavon)           |
+| 12  | Jie Burillo                       | [Jie Burillo](https://github.com/jie10)                 |
+| 13  | Heinrich Sanchez II                | [Heinrich Sanchez II](https://github.com/HeinrichPrsko) |
+| 14  | Rodzel John Te                    | [Rodzel John Te](https://github.com/rodzelte)           |
+| 15  | Mimon Maiquez                     | [Mimon Maiquez](https://github.com/FumI4096)   |
+| 16  | Trisha Macion                      | [Trisha Macion](https://github.com/sample-username)   |
+| 17  | Ariel Jefferson Yonzon            | [Ariel Jefferson Yonzon](https://github.com/ArielJeffersonYonzon)   |
+| 18  | Reynald Toledo                     | [Reynald Toledo](https://github.com/sample-username)   |
 
 ## Group 3
 
