@@ -6,7 +6,7 @@
 | 2   | Christian Jay Vence              | [sample-username](https://github.com/sample-username) |
 | 3   | Gavin Daniel Seonggun Manansala  | [sample-username](https://github.com/sample-username) |
 | 4   | Ernest Teh                        | [sample-username](https://github.com/sample-username) |
-| 5   | Vhong Alibong                     | [sample-username](https://github.com/sample-username) |
+| 5   | Vhong Alibong                     | [Vhong Alibong](https://github.com/theThird25) |
 | 6   | Tolentino Miguel                  | [sample-username](https://github.com/sample-username) |
 | 7   | Zhattana                          | [sample-username](https://github.com/sample-username) |
 | 8   | Vincent Sotoya                     | [sample-username](https://github.com/sample-username) |
